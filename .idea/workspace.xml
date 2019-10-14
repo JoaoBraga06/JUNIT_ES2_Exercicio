@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a90c5a0f-831e-4607-be99-4aebf557e547" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JUNIT_ES2_Exercicio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/BinString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/JUNIT_ES2_Exercicio.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BinString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BinString.java" afterDir="false" />
-    </list>
+    <list default="true" id="a90c5a0f-831e-4607-be99-4aebf557e547" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -150,7 +144,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571071395188" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571071702857" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
